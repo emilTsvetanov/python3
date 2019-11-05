@@ -2,5 +2,5 @@
 Test python3 scripts
 # Files Description
 R1 Related:
-- startFilter.py (pins already configured)
-- stopFiler.py (pins already configured)
+- startDevice.py (pins already configured)
+- stopDevice.py (pins already configured)
