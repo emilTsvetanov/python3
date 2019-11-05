@@ -2,7 +2,6 @@
 import RPi.GPIO as GPIO
 import board
 import busio
-import time
 
 device = 19
 
