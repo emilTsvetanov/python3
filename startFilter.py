@@ -4,7 +4,7 @@ import board
 import busio
 import time
 
-filter = 19
+device = 19
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(filter, GPIO.OUT)
@@ -16,4 +16,4 @@ def startRelay(channel):
 def stopRelay(channel):
     GPIO.output(channel, GPIO.HIGH)
 
-startRelay(filter)
+startRelay(device)
