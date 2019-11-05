@@ -4,3 +4,4 @@ Test python3 scripts
 R1 Related:
 - startDevice.py (pins already configured)
 - stopDevice.py (pins already configured)
+- sensorTest.py (can be tested on all devices)
